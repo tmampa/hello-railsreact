@@ -6,7 +6,7 @@
 
 ## Built With
 
-Ruby >= 3.0.0
+Ruby >= 3.0.1
 
 Rails >= 7.0.0
 
@@ -20,7 +20,7 @@ react >= 17.0
 
 - To get a local copy of the repository please run the following commands on your terminal:
    ```
-   git clone https://github.com/nachosala89/hello-rails-react.git
+   git clone https://github.com/tmampa/hello-railsreact.git
    ```
 - Go to the cloned directory with `cd hello-rails-react`
 - Run `bundle install` to install the necessary packages for rails
@@ -40,11 +40,11 @@ react >= 17.0
 
 ## Author
 
-👤 **Nacho Sala**
+👤 **Tshephang Mampa**
 
-- GitHub: [@nachosala89](https://github.com/nachosala89)
-- Twitter: [@nachosala89](https://twitter.com/nachosala89)
-- LinkedIn: [Juan Ignacio Sala](https://www.linkedin.com/in/nacho-sala)
+- GitHub: [tmampa](https://github.com/tmampa)
+- LinkedIn: [Tshephang Mampa](https://linkedin.com/tshephangmampa)
+- Twitter: [Tshephangm\_](https://twitter.com/tshephangm_)
 
 ## 🤝 Contributing
 
